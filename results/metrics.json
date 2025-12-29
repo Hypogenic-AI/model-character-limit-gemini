@@ -1,0 +1,46 @@
+{
+  "overall_accuracy": 1.0,
+  "accuracy_by_n": [
+    {
+      "n_characters": 5,
+      "is_correct": 1.0
+    },
+    {
+      "n_characters": 10,
+      "is_correct": 1.0
+    },
+    {
+      "n_characters": 15,
+      "is_correct": 1.0
+    },
+    {
+      "n_characters": 20,
+      "is_correct": 1.0
+    },
+    {
+      "n_characters": 25,
+      "is_correct": 1.0
+    },
+    {
+      "n_characters": 30,
+      "is_correct": 1.0
+    },
+    {
+      "n_characters": 40,
+      "is_correct": 1.0
+    },
+    {
+      "n_characters": 50,
+      "is_correct": 1.0
+    },
+    {
+      "n_characters": 75,
+      "is_correct": 1.0
+    }
+  ],
+  "accuracy_by_type": {
+    "Drink": 1.0,
+    "Location": 1.0,
+    "Profession": 1.0
+  }
+}

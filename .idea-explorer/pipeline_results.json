@@ -1,0 +1,27 @@
+{
+  "success": true,
+  "stages": {
+    "resource_finder": {
+      "success": true,
+      "completion_marker": "/data/hypogenicai/workspaces/model-character-limit-gemini/.resource_finder_complete",
+      "outputs": {
+        "literature_review": "/data/hypogenicai/workspaces/model-character-limit-gemini/literature_review.md",
+        "resources_catalog": "/data/hypogenicai/workspaces/model-character-limit-gemini/resources.md",
+        "papers_dir": "/data/hypogenicai/workspaces/model-character-limit-gemini/papers",
+        "datasets_dir": "/data/hypogenicai/workspaces/model-character-limit-gemini/datasets",
+        "code_dir": "/data/hypogenicai/workspaces/model-character-limit-gemini/code"
+      },
+      "log_file": "/data/hypogenicai/workspaces/model-character-limit-gemini/logs/resource_finder_gemini.log",
+      "transcript_file": "/data/hypogenicai/workspaces/model-character-limit-gemini/logs/resource_finder_gemini_transcript.jsonl",
+      "elapsed_time": 2463.084453344345
+    },
+    "experiment_runner": {
+      "success": true,
+      "return_code": 0,
+      "elapsed_time": 264.0398995876312,
+      "log_file": "/data/hypogenicai/workspaces/model-character-limit-gemini/logs/execution_gemini.log",
+      "transcript_file": "/data/hypogenicai/workspaces/model-character-limit-gemini/logs/execution_gemini_transcript.jsonl"
+    }
+  },
+  "work_dir": "/data/hypogenicai/workspaces/model-character-limit-gemini"
+}
